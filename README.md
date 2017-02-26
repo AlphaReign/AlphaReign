@@ -1,6 +1,10 @@
 # AlphaReign
 Docs, About, Etc
 
+Scraper: https://github.com/AlphaReign/scraper
+
+Website: https://github.com/AlphaReign/www-php
+
 
 AlphaReign consists of several parts that make up the entire system.  By all means, not everything is required, but if something doesn't work your probably SOL.  I will try and work through issues that people create on github for the correct repositories, but my time is limited, so don't expect instant feedback.  If you become annoying, I won't answer you at all.  If you contribute, you will get much more of my time (not that's it's that valuable to you, but it is to me)
 
